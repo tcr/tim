@@ -1,0 +1,9 @@
+[package]
+name = "tim"
+version = "0.0.1"
+authors = ["Tim Ryan <tim@timryan.org>"]
+description = "Tiny Integrated Markup (Editor)"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+pancurses = "0.14"
